@@ -1,0 +1,8 @@
+linux_volume;windows_volume;type;capacity(G);free_space
+null;null;null;29,78;29,78;
+null;null;null;8,00;8,00;
+null;null;null;200,00;200,00;
+null;C;NTFS;244,04;87,42;
+null;FAT32;0,098;0,017;
+null;FAT32;449,38;439,76;
+null;system_reserved;0,100;0,072;
